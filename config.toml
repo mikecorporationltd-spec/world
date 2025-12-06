@@ -1,0 +1,86 @@
+project_id = "ndpwhwlvljdfxrrclgxb"
+
+[functions.process-instant-win]
+verify_jwt = true
+
+[functions.ping-search-engines]
+verify_jwt = false
+
+[functions.seed-sitemap-batched]
+verify_jwt = false
+
+[functions.seed-botb-competitions]
+verify_jwt = false
+
+[functions.seed-lifestyle-competitions]
+verify_jwt = false
+
+[functions.sync-botb-daily]
+verify_jwt = false
+
+[functions.sync-all-botb-cars]
+verify_jwt = false
+
+[functions.generate-competition-images]
+verify_jwt = false
+
+[functions.process-botb-batch]
+verify_jwt = false
+
+[functions.audit-competition-data]
+verify_jwt = false
+
+[functions.sync-botb-manual]
+verify_jwt = false
+
+[functions.fix-car-competitions]
+verify_jwt = false
+
+[functions.sync-botb-batch]
+verify_jwt = false
+
+[functions.retry-botb-errors]
+verify_jwt = false
+
+[functions.recategorize-competitions]
+verify_jwt = true
+
+[functions.discover-botb-competitions]
+verify_jwt = false
+
+[functions.ingest-discovered-urls]
+verify_jwt = false
+
+[functions.admin-ai-assistant]
+verify_jwt = true
+
+[functions.create-draw]
+verify_jwt = true
+
+[functions.ai-fraud-check]
+verify_jwt = true
+
+[functions.generate-sitemap]
+verify_jwt = false
+
+[functions.expand-botb-sync]
+verify_jwt = false
+
+[functions.image-sitemap]
+verify_jwt = false
+
+[functions.seo-audit]
+verify_jwt = false
+
+[functions.seo-auto-fix]
+verify_jwt = false
+
+[functions.sync-botb-verified]
+verify_jwt = false
+
+[functions.sync-botb-batch-verified]
+verify_jwt = false
+
+[functions.scrape-botb-categories]
+verify_jwt = false
+

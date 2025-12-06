@@ -1,0 +1,196 @@
+{
+  "audit_date": "2025-12-03",
+  "source_url": "https://www.botb.com/prizes/instantwin",
+  "competition_name": "8 Hot Hatches Waiting To Be Won Instantly + Over 190,000 Prizes!",
+  "ticket_price": 1.49,
+  "currency": "GBP",
+  
+  "competition_pages": [
+    "https://www.botb.com/prizes/instantwin",
+    "https://www.botb.com/prizes/2instantwin",
+    "https://www.botb.com/prizes/cars",
+    "https://www.botb.com/prizes/winbig",
+    "https://www.botb.com/prizes/lifestyle",
+    "https://www.botb.com/prizes/2house"
+  ],
+
+  "hot_hatch_prizes": [
+    {
+      "make": "Ford",
+      "model": "Focus ST",
+      "won": 1,
+      "left": 0,
+      "image_url": "https://cdn.botb.com/media/4oynqxw5/6-ford-focus.png"
+    },
+    {
+      "make": "Honda",
+      "model": "Civic Type R",
+      "won": 0,
+      "left": 1,
+      "image_url": "https://cdn.botb.com/media/xnpbzhcg/1-honda-civic.png"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "A Class A45",
+      "won": 0,
+      "left": 1,
+      "image_url": "https://cdn.botb.com/media/um3lebj3/2-mercedes-a-class.png"
+    },
+    {
+      "make": "Audi",
+      "model": "RS3 Sportback Edition",
+      "won": 0,
+      "left": 1,
+      "image_url": "https://cdn.botb.com/media/m3bew2td/3-audi-rs3-sportback.png"
+    },
+    {
+      "make": "BMW",
+      "model": "1 Series M135i",
+      "won": 0,
+      "left": 1,
+      "image_url": "https://cdn.botb.com/media/0pkba2pa/5-bmw-1-series.png"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Golf Black Edition",
+      "won": 0,
+      "left": 1,
+      "image_url": "https://cdn.botb.com/media/kykjnysb/4-vokswagen-golf.png"
+    },
+    {
+      "make": "Renault",
+      "model": "5 Iconic",
+      "won": 0,
+      "left": 1,
+      "image_url": null
+    },
+    {
+      "make": "MINI",
+      "model": "John Cooper Works",
+      "won": 0,
+      "left": 1,
+      "image_url": null
+    }
+  ],
+
+  "tech_prizes": [
+    {"name": "Apple iPhone 17", "won": 1, "left": 4},
+    {"name": "Apple AirPods Max", "won": 0, "left": 5},
+    {"name": "Sony PS5", "won": 2, "left": 3},
+    {"name": "Samsung Galaxy Ring", "won": 0, "left": 5},
+    {"name": "Shark CryoGlow Blemish Mask", "won": 0, "left": 5}
+  ],
+
+  "cash_prizes": [
+    {"amount": 10000, "label": "£10,000 Tax-Free Cash", "won": 0, "left": 1},
+    {"amount": 5000, "label": "£5,000 Tax-Free Cash", "won": 0, "left": 2},
+    {"amount": 1000, "label": "£1,000 Tax-Free Cash", "won": 0, "left": 5},
+    {"amount": 500, "label": "£500 Tax-Free Cash", "won": 1, "left": 9},
+    {"amount": 250, "label": "£250 Tax-Free Cash", "won": 5, "left": 30},
+    {"amount": 100, "label": "£100 Tax-Free Cash", "won": 5, "left": 95},
+    {"amount": 50, "label": "£50 Tax-Free Cash", "won": 14, "left": 246},
+    {"amount": 25, "label": "£25 Tax-Free Cash", "won": 292, "left": 2758}
+  ],
+
+  "game_credits": [
+    {"amount": 5, "won": 61, "left": 439},
+    {"amount": 4, "won": 97, "left": 903},
+    {"amount": 3, "won": 130, "left": 1370},
+    {"amount": 2, "won": 185, "left": 1815},
+    {"amount": 1, "won": 16952, "left": 168621}
+  ],
+
+  "stats": {
+    "total_won": 17792,
+    "total_left": 176277,
+    "max_tickets": 899999
+  },
+
+  "banner_images": [
+    "https://cdn.botb.com/media/ylpjqoa3/botb-9381-primary-carousel-banner-1600x900.webp",
+    "https://cdn.botb.com/media/v2jngo2s/botb-9381-primary-carousel-banner-1600x900-2.webp",
+    "https://cdn.botb.com/media/5rpbml53/botb-9381-primary-carousel-banner-1600x900-3.webp",
+    "https://cdn.botb.com/media/mrmjkaa1/botb-9381-primary-carousel-banner-1600x900-4.webp",
+    "https://cdn.botb.com/media/rm3mdllu/botb-9381-primary-carousel-banner-1600x900-5.webp",
+    "https://cdn.botb.com/media/k24he50t/botb-9381-primary-carousel-banner-1600x900-6.webp"
+  ],
+
+  "dream_car_competitions": [
+    {
+      "url": "https://www.botb.com/prizes/cars/mercedes-amg-a45-s-plus",
+      "make": "Mercedes",
+      "model": "AMG A45-S Plus",
+      "cash_alt": 46000,
+      "price": 1.95
+    },
+    {
+      "url": "https://www.botb.com/prizes/cars/ford-ranger-raptor",
+      "make": "Ford",
+      "model": "Ranger Raptor",
+      "cash_alt": 44000,
+      "price": 1.85
+    },
+    {
+      "url": "https://www.botb.com/prizes/cars/land-rover-defender-90-v8",
+      "make": "Land Rover",
+      "model": "Defender 90 V8",
+      "cash_alt": 80000,
+      "price": 3.40
+    },
+    {
+      "url": "https://www.botb.com/prizes/cars/bmw-m4-competition-xdrive",
+      "make": "BMW",
+      "model": "M4 Competition xDrive",
+      "cash_alt": 64000,
+      "price": 2.70
+    },
+    {
+      "url": "https://www.botb.com/prizes/cars/volkswagen-golf-r",
+      "make": "Volkswagen",
+      "model": "Golf R",
+      "cash_alt": 32000,
+      "price": 1.35
+    },
+    {
+      "url": "https://www.botb.com/prizes/cars/mini-cooper-s-sport",
+      "make": "Mini",
+      "model": "Cooper S Sport",
+      "cash_alt": 22000,
+      "price": 0.90
+    },
+    {
+      "url": "https://www.botb.com/prizes/cars/audi-abt-sq5",
+      "make": "Audi",
+      "model": "ABT SQ5",
+      "cash_alt": 69000,
+      "price": 2.90
+    },
+    {
+      "url": "https://www.botb.com/prizes/cars/cupra-terramar-vz1",
+      "make": "Cupra",
+      "model": "Terramar VZ1",
+      "cash_alt": 33499,
+      "price": 1.45
+    }
+  ],
+
+  "other_competitions": [
+    {"name": "Festive 24 Hour Specials", "url": "https://www.botb.com/prizes/cars", "start_price": 0.90},
+    {"name": "Free Tech In App!", "url": "https://www.botb.com/prizes/tech-free", "price": 0},
+    {"name": "1kg Silver Bar", "url": "https://www.botb.com/prizes/silver", "price": 0.79},
+    {"name": "BMW M5 for 8p", "url": "https://www.botb.com/prizes/bmw-m5", "price": 0.08},
+    {"name": "999,000+ Instant Prizes", "url": "https://www.botb.com/prizes/2instantwin", "price": 2.19},
+    {"name": "£3,000 Tax-Free Cash", "url": "https://www.botb.com/prizes/cash-3000", "price": 0.29},
+    {"name": "Nintendo Switch 2", "url": "https://www.botb.com/prizes/switch-2", "price": 0.29},
+    {"name": "AirPods + iPad", "url": "https://www.botb.com/prizes/apple-bundle", "price": 0.49},
+    {"name": "£1.15M Bath Home for £1", "url": "https://www.botb.com/prizes/2house", "price": 0.90}
+  ],
+
+  "trust_assets": {
+    "trustpilot_svg": "https://cdn.botb.com/media/hjufoj3j/trustpilot-desktop.svg",
+    "feefo_svg": "https://www.botb.com/assets/images/prize-details/feefo-overlay.svg",
+    "uk_flag": "https://www.botb.com/assets/images/prize-details/uk-flag-icon.svg",
+    "botb_logo": "https://www.botb.com/assets/images/prize-details/botb-logo-icon.png",
+    "instant_win_lightning": "https://www.botb.com/assets/images/instant_win/instan_win_thunder_20x40.png"
+  }
+}

@@ -1,0 +1,32 @@
+name: Daily BOTB Competition Sync
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  sync-competitions:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Sync BOTB Competitions
+        run: |
+          curl -X POST \
+            'https://ndpwhwlvljdfxrrclgxb.supabase.co/functions/v1/sync-botb-daily' \
+            -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" \
+            -H "Content-Type: application/json"
+
+      - name: Sync BOTB Expanded Categories (Watches, Lifestyle, Cash)
+        run: |
+          curl -X POST \
+            'https://ndpwhwlvljdfxrrclgxb.supabase.co/functions/v1/expand-botb-sync' \
+            -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" \
+            -H "Content-Type: application/json"
+
+      - name: Log completion
+        run: echo "Full BOTB sync (cars + all categories) completed at $(date)"

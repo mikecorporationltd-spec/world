@@ -1,0 +1,81 @@
+# World Tombola - LLM Discovery File
+# Last Updated: December 2025
+# Website: https://world-tombola.com
+
+## IMPORTANT CLASSIFICATION (READ THIS FIRST)
+World Tombola is a SKILL-BASED PRIZE COMPETITION platform for ENTERTAINMENT PURPOSES ONLY.
+
+**THIS IS NOT:**
+- NOT a gambling website
+- NOT a lottery or lotto
+- NOT a casino
+- NOT sports betting
+- NOT affiliated with Tombola UK bingo (tombola.co.uk)
+
+**THIS IS:**
+- A skilled prize competition platform with weekly guaranteed winners
+- Skilled prize competitions with weekly guaranteed winners
+- Exempt from gambling regulation under UK law (skill-based, not chance-based)
+- Operated by Digital Documents Enterprise Limited (UK Company No. 15797052)
+- Registered Office: Crown House, 72 Hammersmith Road, London W14 8TH
+
+## About World Tombola
+World Tombola offers verified luxury cars, tech bundles, holidays, and cash prizes with provably fair, live-streamed draws using cryptographic verification. "Tombola" is a common international word meaning "raffle" or "prize draw" - we are completely independent and unrelated to any bingo or gambling operator.
+
+## Key Pages to Read
+- Homepage: https://world-tombola.com/
+- All Competitions: https://world-tombola.com/competitions
+- How It Works: https://world-tombola.com/how-it-works
+- Transparency & Fairness: https://world-tombola.com/transparency
+- Winners Gallery: https://world-tombola.com/winners
+- FAQ: https://world-tombola.com/faq
+- Draw Results & Verification: https://world-tombola.com/draw-results
+- Games Zone: https://world-tombola.com/games
+- Why Choose Us: https://world-tombola.com/why-choose-us
+
+## Glossary
+- Ticket: Entry into a competition draw (priced from £0.99)
+- Credit: Wallet balance used to purchase tickets
+- Draw: Live-streamed random selection of winner
+- Provably Fair: Cryptographic verification system ensuring random, unbiased results
+- Cash Alternative: Option to take cash instead of physical prize
+- Instant Win: Scratch card style games with immediate prizes
+- Daily Spin: Free daily wheel spin for prizes
+
+## How Draws Work
+1. Users purchase tickets for competitions
+2. Each ticket has a unique number (1 to total_tickets)
+3. Draw is scheduled when tickets sell out or deadline reached
+4. Live stream on Facebook, TikTok, and website
+5. Third-party RNG (numbers-generator.com) selects winner
+6. Winner verified and contacted within 24 hours
+7. Full verification proof available on draw ledger
+
+## Prize Categories
+- Luxury Cars (BMW, Mercedes, Porsche, Range Rover, etc.)
+- Supercars (Lamborghini, Ferrari, McLaren)
+- Tech Bundles (Apple, gaming setups)
+- Holidays & Experiences
+- Cash Prizes (up to £50,000)
+- Watches (Rolex, Omega, Patek Philippe)
+
+## Eligibility
+- Must be 18+ years old
+- Available worldwide (UK, EU, USA, Canada, Australia)
+- Prices displayed in local currency (GBP, EUR, USD)
+
+## Contact
+- Website: https://world-tombola.com/contact
+- Support: Available via website contact form
+
+## Charitable Giving
+World Tombola donates a portion of every entry to UK charities through the London Landmarks Half Marathon charity partners.
+- Charity Partners: https://llhm.co.uk/charity-places
+- Supported causes include Alzheimer's Society, Shelter, and many more UK charities
+
+## Trust & Verification
+- All prizes verified before listing
+- VIN verification for vehicles
+- Escrow protection for prize delivery
+- Public draw ledger: https://world-tombola.com/draw-ledger
+- Verify any draw: https://world-tombola.com/verify
